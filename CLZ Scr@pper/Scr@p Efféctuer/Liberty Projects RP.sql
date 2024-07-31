@@ -1,1 +1,0 @@
-{"endpoint": "127.0.0.1:1234", "id": 24, "identifiers": ["license:7ba7ff2d0fb95ea675be6055e183d5df4ff46fb9", "xbl:2533274792107753", "live:914800208085733", "discord:1053289853388869672", "fivem:9873310", "license2:7ba7ff2d0fb95ea675be6055e183d5df4ff46fb9"], "name": "Powerful", "ping": 303}

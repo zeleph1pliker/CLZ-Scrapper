@@ -1,1 +1,0 @@
-{"endpoint": "127.0.0.1:1234", "id": 1, "identifiers": ["license:ad9925e36e48c91c88e255ded3e2bc3c16131ffe", "discord:402961989237997578", "fivem:5731738", "license2:ad9925e36e48c91c88e255ded3e2bc3c16131ffe"], "name": "Snipy", "ping": 39}
