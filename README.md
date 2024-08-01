@@ -1,21 +1,45 @@
 CLZ-Scrapper : Outil de Scraping pour FiveM
 
-Présentation
+CLZ-Scrapper est un scrapper développé pour collecter des données à partir des serveurs FiveM. Cet outil permet une extraction efficace et personnalisable des informations de jeu, facilitant ainsi l’analyse et la gestion des serveurs.
 
-CLZ-Scrapper est un outil de scraping dédié à FiveM, une plateforme populaire pour les serveurs de jeu modifiés sur Grand Theft Auto V. Développé et maintenu par la communauté, CLZ-Scrapper permet de collecter efficacement des données spécifiques à partir de serveurs FiveM.
+Fonctionnalités
 
-Fonctionnalités Clés
+	•	Extraction des Données : Collecte des informations détaillées sur les serveurs FiveM, incluant les statistiques des joueurs et les configurations des serveurs.
+	•	Personnalisation : Configuration flexible pour adapter le scrapper à différents besoins spécifiques des administrateurs de serveurs.
+	•	Gestion des Données : Intégration avec divers outils pour une gestion et une analyse approfondies des données recueillies.
 
-	•	Collecte Automatisée de Données : Récupère automatiquement les informations pertinentes des serveurs FiveM, incluant les statistiques et les détails des joueurs.
-	•	Support Personnalisé : Adapté aux besoins des administrateurs de serveurs et des développeurs cherchant à analyser les performances et les comportements des joueurs.
-	•	Facilité d’Intégration : Intègre facilement les données collectées avec d’autres outils et bases de données pour une gestion optimisée.
+Installation
 
-Installation et Configuration
+	1.	Clonez le Répertoire
 
-Le projet est hébergé sur GitHub à l’adresse suivante : CLZ-Scrapper GitHub. Pour configurer et déployer le scrapper, suivez les instructions fournies dans la section “Installation” du dépôt. Vous y trouverez les prérequis nécessaires ainsi que des guides étape par étape pour une mise en place réussie.
+git clone https://github.com/zeleph1pliker/CLZ-Scrapper.git
 
-Contribution
 
-Les contributions au projet sont les bienvenues. Si vous souhaitez participer ou proposer des améliorations, veuillez consulter les directives de contribution disponibles dans le dépôt GitHub.
+	2.	Installez les Dépendances
+Assurez-vous que toutes les dépendances nécessaires sont installées en exécutant :
 
-Pour des détails supplémentaires, visitez le dépôt GitHub CLZ-Scrapper et explorez les fichiers de documentation pour une compréhension approfondie des fonctionnalités et des configurations possibles.
+pip install -r requirements.txt
+
+
+	3.	Configurez le Scrapper
+Modifiez le fichier de configuration pour définir les paramètres du scraping selon vos besoins.
+	4.	Exécutez le Scrapper
+Lancez le scrapper en utilisant la commande suivante :
+
+python scrapper.py
+
+
+
+Configuration
+
+La configuration du scrapper se fait via le fichier config.json. Assurez-vous de définir correctement les paramètres de connexion et les options de scraping selon votre environnement de serveur FiveM.
+
+Contribuer
+
+Les contributions sont bienvenues ! Pour proposer des améliorations ou signaler des bugs, veuillez soumettre un pull request ou ouvrir une issue sur le dépôt GitHub.
+
+Support
+
+Pour toute assistance supplémentaire, veuillez consulter la documentation fournie dans le dépôt ou rejoindre la communauté sur les forums liés à FiveM.
+
+Pour plus de détails, visitez le dépôt GitHub : CLZ-Scrapper.
