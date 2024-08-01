@@ -52,7 +52,7 @@
 
 ## **📚 Documentation & Support**
 
-Pour plus de détails et pour obtenir de l'aide, visitez le dépôt GitHub : [CLZ-Scrapper](https://github.com/zeleph1pliker/CLZ-Scrapper/settings).
+Pour plus de détails et pour obtenir de l'aide, visitez le serveur discord : [CLZ-Scrapper]([https://discord.gg/YcgSb8yMFt]).
 
 ---
 
