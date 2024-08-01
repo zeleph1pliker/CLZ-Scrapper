@@ -2,14 +2,13 @@
 
 ## **Outil de Scraping pour FiveM** 🌟
 
-**CLZ-Scrapper** est un scrapper avancé conçu pour extraire des données précieuses à partir de serveurs FiveM. Que vous soyez un administrateur de serveur ou un développeur, cet outil vous aide à obtenir des informations critiques sur vos serveurs de jeu modifiés.
+**CLZ-Scrapper** est un scrapper avancé conçu pour extraire des données précieuses à partir de serveurs FiveM. 
 
 ---
 
 ## **🔍 Fonctionnalités**
 
 - **Collecte Automatisée** 📊 : Récupère des données en temps réel sur les serveurs FiveM, y compris les statistiques des joueurs et les configurations.
-- **Configuration Flexible** ⚙️ : Personnalisez les paramètres pour répondre précisément à vos besoins.
 - **Analyse Intégrée** 📈 : Intégrez les données collectées avec vos outils d'analyse pour des rapports détaillés.
 
 ---
