@@ -52,7 +52,7 @@
 
 ## **📚 Documentation & Support**
 
-Pour plus de détails et pour obtenir de l'aide, visitez le serveur discord : [CLZ-Scrapper]([https://discord.gg/YcgSb8yMFt]).
+Pour plus de détails et pour obtenir de l'aide, visitez le serveur discord : [CLZ-Scrapper]([https://discord.gg/YcgSb8yMFt])).
 
 ---
 
