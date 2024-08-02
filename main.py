@@ -60,7 +60,7 @@ def send_to_webhook(player_data, server_name):
         if response.status_code == 200:
             print(Fore.BLUE + '[WEBHOOK]' + Style.RESET_ALL + ' Les données ont été envoyées à la webhook avec succès.')
         else:
-            print(Fore.RED + f'[WEBHOOK] Statut de la réponse: {response.status_code}' + Style.RESET_ALL)
+            print(Fore.RED + f'[WEBHOOK] succe denvoie a la webhook: {response.status_code}' + Style.RESET_ALL)
     except Exception as e:
         print(Fore.RED + f'succer d\'envoi à la webhook: ' + Style.RESET_ALL)
 
